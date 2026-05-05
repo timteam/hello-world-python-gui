@@ -1,0 +1,5 @@
+# Python GUI dependencies
+# Add your dependencies here, e.g.:
+# tkinter (included in standard library)
+# PyQt5==5.15.7
+# customtkinter==4.6.3
